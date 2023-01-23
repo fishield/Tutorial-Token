@@ -4,7 +4,7 @@
 - INSTALL
 
 "npm install @metaplex-foundation/mpl-token-metadata --save"
-"npm install @metaplex-foundation/mpl-token-metadata --save"
+"npm install @solana/web3.js --save"
 "npm install @project-serum/anchor --save"
 "npm i ts-node --save"
 
